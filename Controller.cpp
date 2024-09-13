@@ -1,4 +1,4 @@
-/* JVIDA_Main.cpp
+/* JVIDA_Controller.cpp
 Projeto Jogo da vida
 22/11/2023
 
